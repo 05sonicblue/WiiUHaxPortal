@@ -1,0 +1,6 @@
+D:\Projects\WiiUSite\WiiUSite\bin\WiiUSite.dll.config
+D:\Projects\WiiUSite\WiiUSite\bin\WiiUSite.dll
+D:\Projects\WiiUSite\WiiUSite\bin\WiiUSite.pdb
+D:\Projects\WiiUSite\WiiUSite\obj\Debug\WiiUSite.csprojResolveAssemblyReference.cache
+D:\Projects\WiiUSite\WiiUSite\obj\Debug\WiiUSite.dll
+D:\Projects\WiiUSite\WiiUSite\obj\Debug\WiiUSite.pdb
