@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="540\loadiine-v1\loadiine.mp4" />
+    <Content Include="540\loadiine-v3\payload.mp4" />
     <Content Include="index.html" />
     <Content Include="styles\images\AQUA ICONS SYSTEM SOFTWARE UPDATE.png" />
     <Content Include="styles\images\editdelete.png" />
@@ -144,6 +145,11 @@
     <Content Include="540\wupinstaller\wiiu_browserhax_common.php" />
   </ItemGroup>
   <ItemGroup />
+  <ItemGroup>
+    <Content Include="540\loadiine-v3\fs532.elf" />
+    <Content Include="540\loadiine-v3\loader532.elf" />
+    <Content Include="540\loadiine-v3\menu532.elf" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
