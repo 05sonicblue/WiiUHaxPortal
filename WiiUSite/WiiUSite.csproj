@@ -57,6 +57,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="540\loadiine-gx2-sd\index.html" />
+    <Content Include="540\loadiine-gx2-sd\payload532.html" />
+    <Content Include="540\loadiine-gx2\index.html" />
+    <Content Include="540\loadiine-gx2\payload532.html" />
     <Content Include="540\loadiine-v1\loadiine.mp4" />
     <Content Include="540\loadiine-v3\payload.mp4" />
     <Content Include="index.html" />
@@ -144,7 +148,24 @@
     <Content Include="540\wupinstaller\wiiuhaxx_rop_sysver_550.php" />
     <Content Include="540\wupinstaller\wiiu_browserhax_common.php" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="540\loadiine-gx2-sd\code532.bin" />
+    <Content Include="540\loadiine-gx2-sd\payload.php" />
+    <Content Include="540\loadiine-gx2-sd\sd_loader.elf" />
+    <Content Include="540\loadiine-gx2-sd\wiiuhaxx_common_cfg.php" />
+    <Content Include="540\loadiine-gx2-sd\wiiuhaxx_loader.bin" />
+    <Content Include="540\loadiine-gx2-sd\wiiuhaxx_rop_sysver_532.php" />
+    <Content Include="540\loadiine-gx2-sd\wiiuhaxx_rop_sysver_550.php" />
+    <Content Include="540\loadiine-gx2-sd\wiiu_browserhax_common.php" />
+    <Content Include="540\loadiine-gx2\code532.bin" />
+    <Content Include="540\loadiine-gx2\loadiine_gx2.elf" />
+    <Content Include="540\loadiine-gx2\payload.php" />
+    <Content Include="540\loadiine-gx2\wiiuhaxx_common_cfg.php" />
+    <Content Include="540\loadiine-gx2\wiiuhaxx_loader.bin" />
+    <Content Include="540\loadiine-gx2\wiiuhaxx_rop_sysver_532.php" />
+    <Content Include="540\loadiine-gx2\wiiuhaxx_rop_sysver_550.php" />
+    <Content Include="540\loadiine-gx2\wiiu_browserhax_common.php" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="540\loadiine-v3\fs532.elf" />
     <Content Include="540\loadiine-v3\loader532.elf" />

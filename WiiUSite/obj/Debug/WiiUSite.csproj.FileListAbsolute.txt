@@ -4,3 +4,8 @@ D:\Projects\WiiUSite\WiiUSite\bin\WiiUSite.pdb
 D:\Projects\WiiUSite\WiiUSite\obj\Debug\WiiUSite.csprojResolveAssemblyReference.cache
 D:\Projects\WiiUSite\WiiUSite\obj\Debug\WiiUSite.dll
 D:\Projects\WiiUSite\WiiUSite\obj\Debug\WiiUSite.pdb
+D:\Projects\WiiUHaxPortal\WiiUSite\bin\WiiUSite.dll
+D:\Projects\WiiUHaxPortal\WiiUSite\bin\WiiUSite.pdb
+D:\Projects\WiiUHaxPortal\WiiUSite\obj\Debug\WiiUSite.csprojResolveAssemblyReference.cache
+D:\Projects\WiiUHaxPortal\WiiUSite\obj\Debug\WiiUSite.dll
+D:\Projects\WiiUHaxPortal\WiiUSite\obj\Debug\WiiUSite.pdb
